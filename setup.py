@@ -7,6 +7,6 @@ setup(name='testing_package_setup',
       # author='Flying Circus',
       # author_email='flyingcircus@example.com',
       # license='MIT',
-      packages=['rm-utils'],
+      packages=['rm_utils'],
       # zip_safe=False
 )
